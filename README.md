@@ -14,9 +14,9 @@ I’m a freelance Frontend Developer specialized in fast, responsive, and SEO-fr
 - 🛠️ Code cleanup and optimization
 
 ## 🧪 Latest Projects
-- [🌐 Modern Restaurant Landing Page](https://github.com/TUNOMBRE/resto-astro-tailwind)
-- [☕ Café Landing Page](https://github.com/TUNOMBRE/cafe-astro-landing)
+- [🌐 Modern Restaurant Landing Page](https://restomoderno.netlify.app)
+- [🤖 *3D.iego* 3D prints Landing Page](https://3diego.netlify.app)
 
 ## 📬 Let's Connect
 - 💼 [Fiverr: FrontEndbyAle](https://www.fiverr.com/frontendbyale)
-- 📩 [Email: FrontEndByAle](mailto:frontendbyale@gmail.com)
+- 📩 [Email: frontendbyale@gmail.com](mailto:frontendbyale@gmail.com)
