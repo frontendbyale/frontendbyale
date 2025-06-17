@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hey! I'm Alejandro aka FrontEndbyAle
 
-<!--
-**frontendbyale/frontendbyale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a freelance Frontend Developer specialized in fast, responsive, and SEO-friendly websites.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+- HTML / CSS / JavaScript
+- Tailwind CSS / Astro.js
+- Git / GitHub / Vite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+- ✨ Landing Pages from scratch or from Figma, Sketch, XD, PSD or PDF
+- ⚡ High-performance static sites
+- 🧩 UI components with Tailwind
+- 🛠️ Code cleanup and optimization
+
+## 🧪 Latest Projects
+- [🌐 Modern Restaurant Landing Page](https://github.com/TUNOMBRE/resto-astro-tailwind)
+- [☕ Café Landing Page](https://github.com/TUNOMBRE/cafe-astro-landing)
+
+## 📬 Let's Connect
+- 💼 [Fiverr: FrontEndbyAle](https://www.fiverr.com/frontendbyale)
+- 📩 [Email: FrontEndByAle](mailto:frontendbyale@gmail.com)
