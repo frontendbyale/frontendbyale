@@ -5,7 +5,7 @@ I’m a freelance Frontend Developer specialized in fast, responsive, and SEO-fr
 ## 💻 Tech Stack
 - HTML / CSS / JavaScript
 - Tailwind CSS / Astro.js
-- Git / GitHub / Vite
+- Git / GitHub
 
 ## 🚀 What I Do
 - ✨ Landing Pages from scratch or from Figma, Sketch, XD, PSD or PDF
